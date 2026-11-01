@@ -1,0 +1,3 @@
+# Fingerprints of the scores the shipped recordings were made from (tools/render_written.sh).
+opening=0b77cc157d19f8953daf08a14297452599de5e8e24d60b1309da1288b323b583
+victory=c9f7bffb4a4046bdb85a9bf8b8ff82acc5d48f1a23bb5d63e14458136102cbc1
